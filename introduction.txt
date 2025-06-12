@@ -1,10 +1,10 @@
- Brief Introduction About Myself
+ #Brief Introduction About Myself#
 👋 Hi, I'm Valois
 
 I'm a passionate tech enthusiast from Rwanda, focused on using data, programming, and innovation to solve real-world
 problems especially in climate resilience, agriculture, and sustainable development.
 I enjoy working on collaborative projects, building digital solutions, and learning new tools that make a meaningful impact.
 
- My skills include HTML, CSS, JAVASCRIPT, teamwork, and problem-solving.
- I'm currently exploring ways to empower African communities through technology and creative solutions.
- Feel free to connect or explore my projects!
+My skills include HTML, CSS, JAVASCRIPT, teamwork, and problem-solving.
+I'm currently exploring ways to empower African communities through technology and creative solutions.
+Feel free to connect or explore my projects!
